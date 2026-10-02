@@ -9,7 +9,7 @@
 | 👑 Premium | [Premium](https://github.com/adlos96/Warrior-and-Wealth/blob/main/Wiki/Game/Componenti/Premium.md) |
 | 🏘️ Città | [Città](https://github.com/adlos96/Warrior-and-Wealth/blob/main/Wiki/Game/Componenti/Citta.md) |
 | 🏰 Edifici | [Edifici](https://github.com/adlos96/Warrior-and-Wealth/blob/main/Wiki/Game/Componenti/Edifici.md) |
-| 📅 Quest Mensili | [Quest Mensili](https://github.com/adlos96/Warrior-and-Wealth/blob/main/Wiki/Game/Componenti/Quest_Mensili.md) |
+| 📅 Quest Mensili | [Quest Mensili](https://github.com/adlos96/Warrior-and-Wealth/blob/main/Wiki/Game/Componenti/Quest.md) |
 | 💎 Risorse | [Risorse](https://github.com/adlos96/Warrior-and-Wealth/blob/main/Wiki/Game/Componenti/Risorse.md) |
 | 🎖️ Esercito | [Esercito](https://github.com/adlos96/Warrior-and-Wealth/blob/main/Wiki/Game/Componenti/Esercito.md) |
 | 🕵️ Spionaggio | [Spionaggio](https://github.com/adlos96/Warrior-and-Wealth/blob/main/Wiki/Game/Componenti/Spionaggio.md) |
