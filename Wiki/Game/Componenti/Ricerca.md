@@ -127,4 +127,4 @@ Queste ricerche migliorano le caratteristiche della tua città, rendendola un ba
 
 ---
 
-[⬅️ Torna al Menu Principale](https://github.com/adlos96/Warrior-and-Wealth/blob/main/README.md) | [🧪 Vai alla Guida Ricerca](https://github.com/adlos96/Warrior-and-Wealth/blob/main/Wiki/Game/Componenti/Ricerca.md)
+[⬅️ Torna al Menu Principale](main/README.md) | [🧪 Vai alla Guida Ricerca](main/Wiki/Game/Componenti/Ricerca.md)

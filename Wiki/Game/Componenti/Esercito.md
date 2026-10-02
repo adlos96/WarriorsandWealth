@@ -132,4 +132,4 @@ Al termine della battaglia, riceverai un **report dettagliato** con il bilancio 
 
 ## Vedi Anche
 
-[⬅️ Torna al Menu Principale](https://github.com/adlos96/Warrior-and-Wealth/blob/main/README.md) | [🎖️ Vai alla Guida Esercito](https://github.com/adlos96/Warrior-and-Wealth/blob/main/Wiki/Game/Battaglie/Esercito.md)
+[⬅️ Torna al Menu Principale](main/README.md) | [🎖️ Vai alla Guida Esercito](Wiki/Game/Battaglie/Esercito.md)

@@ -2,9 +2,9 @@
 
 [#difesa](#difesa)
 
-Mentre la [Guida alla Città](https://github.com/adlos96/Warrior-and-Wealth/blob/main/Wiki/Game/Componenti/Citt%C3%A0.md) illustra come è composta la tua Cittadella, questa pagina spiega cosa succede davvero quando quella Cittadella viene messa alla prova: come si svolge un attacco PVP, cosa deve aspettarsi chi difende e cosa deve pianificare chi attacca.
+Mentre la [Guida alla Città](Wiki/Game/Componenti/Citt%C3%A0.md) illustra come è composta la tua Cittadella, questa pagina spiega cosa succede davvero quando quella Cittadella viene messa alla prova: come si svolge un attacco PVP, cosa deve aspettarsi chi difende e cosa deve pianificare chi attacca.
 
-La Città si struttura secondo un sistema multilivello a strati successivi: **Ingresso**, **Mura**, **Cancello**, **Torri**, **Centro**, **Castello** e **Attacco Diretto (o Giocatore)**. Ad eccezione di Ingresso e Centro (composte unicamente da una guarnigione), ogni struttura dispone di **Difesa** e **Salute** proprie, oltre alla capacità di ospitare truppe — per il dettaglio di ciascuno strato consulta la [Guida alla Città](https://github.com/adlos96/Warrior-and-Wealth/blob/main/Wiki/Game/Componenti/Citt%C3%A0.md).
+La Città si struttura secondo un sistema multilivello a strati successivi: **Ingresso**, **Mura**, **Cancello**, **Torri**, **Centro**, **Castello** e **Attacco Diretto (o Giocatore)**. Ad eccezione di Ingresso e Centro (composte unicamente da una guarnigione), ogni struttura dispone di **Difesa** e **Salute** proprie, oltre alla capacità di ospitare truppe — per il dettaglio di ciascuno strato consulta la [Guida alla Città](main/Wiki/Game/Componenti/Citt%C3%A0.md).
 
 > Tutte le strutture difensive sono vuote. Spetta al giocatore decidere come organizzare la propria linea strategica, selezionando tipo, numero e livello dei soldati da collocare in ciascun presidio nei limiti della capacità massima consentita.
 
@@ -97,10 +97,10 @@ In caso di vittoria dell'attaccante nell'**Attacco Diretto**, le difese della Ci
 - **Volume di carico**: la quantità totale di risorse sottratte dipende dalla capacità di trasporto complessiva delle truppe attaccanti sopravvissute allo scontro.
 - **Risorse saccheggiabili**: il bottino comprende sia le risorse standard sia le risorse valutarie preziose, nello specifico i **Diamanti Blu** e **Viola**.
 
-> 💎 Il saccheggio dei Diamanti è soggetto a due limiti distinti (per bersaglio e generale giornaliero), pensati per evitare il farming compulsivo. Per il dettaglio completo, consulta la [Guida al PVP](https://github.com/adlos96/Warrior-and-Wealth/blob/main/Wiki/Game/Battaglie/PVP.md).
+> 💎 Il saccheggio dei Diamanti è soggetto a due limiti distinti (per bersaglio e generale giornaliero), pensati per evitare il farming compulsivo. Per il dettaglio completo, consulta la [Guida al PVP](main/Wiki/Game/Battaglie/PVP.md).
 
 > Il saccheggio dei tributi non è possibile.
 
 ---
 
-[⬅️ Torna al Menu Principale](https://github.com/adlos96/Warrior-and-Wealth/blob/main/README.md) | [🏹 Vai alla Guida PVE](https://github.com/adlos96/Warrior-and-Wealth/blob/main/Wiki/Game/Componenti/PVE.md)
+[⬅️ Torna al Menu Principale](hmain/README.md) | [🏹 Vai alla Guida PVE](hmain/Wiki/Game/Componenti/PVE.md)

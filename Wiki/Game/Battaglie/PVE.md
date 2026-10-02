@@ -41,9 +41,9 @@ Le **Città Barbare** sono possenti roccaforti difese da eserciti imponenti e cu
 Sconfiggere le forze barbare garantisce premi indispensabili per sostenere i ritmi di sviluppo del proprio impero:
 
 - **Risorse di Base:** Ingenti quantità di cibo, legno, pietra, ferro e oro per alimentare l'economia e non fermare mai le code di costruzione e addestramento.
-- **Esperienza Giocatore:** Punti EXP utili per far salire di livello il proprio profilo e sbloccare l'accesso ad elementi avanzati in, ricerca, militare, spionaggio e generalmente per progredire il villaggio. Consulta la [Guida all'Esperienza](https://github.com/adlos96/Warrior-and-Wealth/blob/main/Wiki/Game/Componenti/Esperienza.md) per i dettagli.
+- **Esperienza Giocatore:** Punti EXP utili per far salire di livello il proprio profilo e sbloccare l'accesso ad elementi avanzati in, ricerca, militare, spionaggio e generalmente per progredire il villaggio. Consulta la [Guida all'Esperienza](Game/Componenti/Esperienza.md) per i dettagli.
 - **Diamanti (Blu e Viola):** Preziosa valuta premium (ottenibile sia in PvE che in PvP) fondamentale per accelerare le code di sviluppo, le ricerche e l'acquisto dei Feudi.
 
 ---
 
-[⬅️ Torna al Menu Principale](https://github.com/adlos96/Warrior-and-Wealth/blob/main/README.md) | [🏛️ Vai alla Guida PVP](https://github.com/adlos96/Warrior-and-Wealth/blob/main/Wiki/Game/Battaglie/PVP.md) | [⭐ Vai alla Guida Esperienza](https://github.com/adlos96/Warrior-and-Wealth/blob/main/Wiki/Game/Componenti/Esperienza.md)
+[⬅️ Torna al Menu Principale](main/README.md) | [🏛️ Vai alla Guida PVP](main/Wiki/Game/Battaglie/PVP.md) | [⭐ Vai alla Guida Esperienza](main/Wiki/Game/Componenti/Esperienza.md)

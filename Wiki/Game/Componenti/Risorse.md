@@ -10,7 +10,7 @@ Nessun impero cresce senza materie prime. In **Warriors & Wealth** ogni costruzi
 
 [#risorse-civili](#risorse-civili)
 
-Sono il motore economico del villaggio: vengono prodotte costantemente dagli [Edifici Civili](https://github.com/adlos96/Warrior-and-Wealth/blob/main/Wiki/Game/Componenti/Edifici.md) e sostengono ogni attività, dalla costruzione alla ricerca fino al mantenimento delle truppe. Oltre alla produzione passiva, possono essere accumulate anche saccheggiando altri giocatori o incursioni contro i [Barbari](https://github.com/adlos96/Warrior-and-Wealth/blob/main/Wiki/Game/Battaglie/PVE.md).
+Sono il motore economico del villaggio: vengono prodotte costantemente dagli [Edifici Civili](Wiki/Game/Componenti/Edifici.md) e sostengono ogni attività, dalla costruzione alla ricerca fino al mantenimento delle truppe. Oltre alla produzione passiva, possono essere accumulate anche saccheggiando altri giocatori o incursioni contro i [Barbari](Wiki/Game/Battaglie/PVE.md).
 
 | Risorsa         | Struttura        | Fonti                | Descrizione                                                                                                          |
 | --------------- | ---------------- | --------------------- | ---------------------------------------------------------------------------------------------------------------------- |
@@ -52,7 +52,7 @@ Il rischio è di non poter più costruire strutture produttive per migliorare la
 
 Al di sopra delle risorse di uso quotidiano si trovano le valute rare del gioco: Diamanti e Tributi. Non si producono passivamente nel villaggio, ma si conquistano — sul campo di battaglia, completando Quest o tramite i GamePass.
 
-> ⚠️ **Attenzione:** a differenza delle risorse civili e militari, Diamanti Viola e Blu **possono essere saccheggiati** se si perde una battaglia in difesa durante un attacco PvP. Per i dettagli sui limiti di saccheggio, consulta la [Guida al PVP](https://github.com/adlos96/Warrior-and-Wealth/blob/main/Wiki/Game/Battaglie/PVP.md).
+> ⚠️ **Attenzione:** a differenza delle risorse civili e militari, Diamanti Viola e Blu **possono essere saccheggiati** se si perde una battaglia in difesa durante un attacco PvP. Per i dettagli sui limiti di saccheggio, consulta la [Guida al PVP](main/Wiki/Game/Battaglie/PVP.md).
 
 ### Diamanti Viola
 
@@ -88,4 +88,4 @@ Generati esclusivamente dai **Feudi**, terreni virtuali di diverse rarità che, 
 
 ---
 
-[⬅️ Torna al Menu Principale](https://github.com/adlos96/Warrior-and-Wealth/blob/main/README.md) | [🏛️ Vai alla Guida Edifici](https://github.com/adlos96/Warrior-and-Wealth/blob/main/Wiki/Game/Componenti/Edifici.md)
+[⬅️ Torna al Menu Principale](main/README.md) | [🏛️ Vai alla Guida Edifici](Wiki/Game/Componenti/Edifici.md)

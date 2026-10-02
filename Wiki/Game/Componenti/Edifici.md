@@ -4,7 +4,7 @@
 
 Ogni villaggio nasce da un pugno di capanne e cresce fino a diventare una città fortificata, ed è l'insieme degli edifici a determinarne il ritmo di sviluppo. Questa pagina descrive le strutture disponibili nel gioco, suddivise per funzione: quali risorse producono, cosa abilitano e come si inseriscono nella crescita complessiva del villaggio.
 
-Le risorse prodotte dagli edifici alimentano **ricerca**, **addestramento**, **costruzione** e **riparazione** delle strutture difensive — motivo per cui pianificare l'ordine di costruzione è una delle prime decisioni strategiche di ogni generale. Per approfondire natura e utilizzo delle singole risorse, consulta la [Guida alle Risorse](https://github.com/adlos96/Warrior-and-Wealth/blob/main/Wiki/Game/Componenti/Risorse.md).
+Le risorse prodotte dagli edifici alimentano **ricerca**, **addestramento**, **costruzione** e **riparazione** delle strutture difensive — motivo per cui pianificare l'ordine di costruzione è una delle prime decisioni strategiche di ogni generale. Per approfondire natura e utilizzo delle singole risorse, consulta la [Guida alle Risorse](main/Wiki/Game/Componenti/Risorse.md).
 
 ---
 
@@ -59,4 +59,4 @@ Le caserme sono il cuore pulsante dell'esercito: ogni struttura abilita l'addest
 
 ---
 
-[⬅️ Torna al Menu Principale](main/README.md) | [🏛️ Vai alla Guida Città](main/Wiki/Game/Componenti/Citt%C3%A0.md) | [💎 Vai alla Guida alle Risorse](main/Wiki/Game/Componenti/Risorse.md)
+[⬅️ Torna al Menu Principale](main/README.md) | [🏛️ Vai alla Guida Città](Wiki/Game/Componenti/Citta.md) | [💎 Vai alla Guida alle Risorse](main/Wiki/Game/Componenti/Risorse.md)

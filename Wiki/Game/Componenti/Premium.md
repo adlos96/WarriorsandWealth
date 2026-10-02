@@ -4,7 +4,7 @@
 
 Oltre alla crescita economica e militare, **Warriors & Wealth** offre nello shop tre componenti premium acquistabili: **VIP**, **Gamepass Silver** e **Gamepass Gold**. Ognuno garantisce vantaggi unici e, in parte, elementi in comune tra loro. L'obiettivo dichiarato è mantenere il gioco bilanciato sia per chi gioca in modalità free-to-play, sia per chi decide di investire: i bonus premium accelerano la progressione, ma non sono pensati per stravolgere gli equilibri di gioco.
 
-Uno dei principali vantaggi condivisi da tutti e tre i componenti è un accesso più agevole ai **Diamanti Blu e Viola**. I Diamanti Viola, in particolare, vengono generalmente spesi per l'acquisto di **Feudi** o di altri componenti nello shop. Per approfondire natura, ottenimento e utilizzo dei Diamanti, consulta la [Guida alle Risorse](https://github.com/adlos96/Warrior-and-Wealth/blob/main/Wiki/Game/Componenti/Risorse.md).
+Uno dei principali vantaggi condivisi da tutti e tre i componenti è un accesso più agevole ai **Diamanti Blu e Viola**. I Diamanti Viola, in particolare, vengono generalmente spesi per l'acquisto di **Feudi** o di altri componenti nello shop. Per approfondire natura, ottenimento e utilizzo dei Diamanti, consulta la [Guida alle Risorse](main/Wiki/Game/Componenti/Risorse.md).
 
 > **⚠️ Importante:** i vantaggi elencati in questa pagina vanno sempre verificati in gioco prima dell'acquisto. I valori dei bonus applicati e le relative statistiche possono variare nel tempo.
 
@@ -75,4 +75,4 @@ Non tutte le risorse del gioco sono spendibili nello shop. Le uniche valute acce
 
 ---
 
-[⬅️ Torna al Menu Principale](https://github.com/adlos96/Warrior-and-Wealth/blob/main/README.md) | [⭐ Vai alla Guida all'Esperienza](https://github.com/adlos96/Warrior-and-Wealth/blob/main/Wiki/Game/Componenti/Esperienza.md)
+[⬅️ Torna al Menu Principale](main/README.md) | [⭐ Vai alla Guida all'Esperienza](main/Wiki/Game/Componenti/Esperienza.md)

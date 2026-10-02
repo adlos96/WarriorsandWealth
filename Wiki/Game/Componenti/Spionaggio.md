@@ -80,7 +80,7 @@ La forza determina quali informazioni riesci a strappare al nemico: più è alta
 | :---: | :--------: | :----------- | --------------------------------------- |
 | **0**   | ≤ 0              | ❌ **Missione fallita** | nessuna informazione.                                                            |
 | **1**   | 1 – 2            | **Risorse** | civili e militari. |
-| **2**   | 3 – 4             | **Truppe** | numero di unità schierate in ogni struttura difensiva della [Città](https://github.com/adlos96/Warrior-and-Wealth/blob/main/Wiki/Game/Componenti/Citta.md) (Ingresso, Mura, Cancello, Torri, Centro, Castello). |
+| **2**   | 3 – 4             | **Truppe** | numero di unità schierate in ogni struttura difensiva della [Città](Wiki/Game/Componenti/Citta.md) (Ingresso, Mura, Cancello, Torri, Centro, Castello). |
 | **3**   | 5 – 6             | **Città e Difese** | Salute, Difesa e Guarnigione di Mura, Cancello, Torri e Castello.                    |
 | **4**   | 7 – 9             | **Edifici** | numero di edifici civili (Fattorie, Segherie, Cave, Miniere, Abitazioni) e militari (Workshop, Caserme). |
 | **5**   | 10 – 12           | **Ricerche** | livello di tutte le ricerche civili e militari del nemico.                                 |
@@ -168,4 +168,4 @@ Una buona intelligence è la differenza tra un assedio ben pianificato e un atta
 ---
 
 
-[⬅️ Torna al Menu Principale](https://github.com/adlos96/Warrior-and-Wealth/blob/main/README.md)
+[⬅️ Torna al Menu Principale](main/README.md)

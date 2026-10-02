@@ -4,7 +4,7 @@
 
 La **Città** (o **Cittadella**) è il cuore difensivo del tuo Villaggio: qui risiedono le strutture fortificate e la guarnigione che proteggono le risorse e la sopravvivenza del tuo popolo. A differenza degli edifici economici del Villaggio — dedicati alla produzione e alla crescita — la Città è interamente votata alla difesa. Da questa sezione puoi osservare la disposizione degli strati difensivi, gestire le riparazioni e organizzare le guarnigioni struttura per struttura.
 
-Per violare le difese della Città di un altro giocatore, un attaccante deve attraversare in sequenza tutti gli strati che la compongono, fino a raggiungere l'ultimo: solo così potrà saccheggiarne le risorse. Questa pagina descrive la **composizione strutturale** della Città; per le meccaniche di combattimento vere e proprie (fasi di battaglia, calcolo dei danni, saccheggio), consulta la [Guida alla Difesa](https://github.com/adlos96/Warrior-and-Wealth/blob/main/Wiki/Game/Battaglie/Difesa.md).
+Per violare le difese della Città di un altro giocatore, un attaccante deve attraversare in sequenza tutti gli strati che la compongono, fino a raggiungere l'ultimo: solo così potrà saccheggiarne le risorse. Questa pagina descrive la **composizione strutturale** della Città; per le meccaniche di combattimento vere e proprie (fasi di battaglia, calcolo dei danni, saccheggio), consulta la [Guida alla Difesa](main/Wiki/Game/Battaglie/Difesa.md).
 
 > ⚠️ Quando una struttura viene danneggiata è possibile avviare le riparazioni. Queste richiedono risorse e tempo; se non ci sono risorse sufficienti la riparazione non può essere avviata o interrotta se già attiva.
 
@@ -42,14 +42,14 @@ Durante un assedio, quando la struttura viene danneggiata, le riparazioni sono f
 - **Interruzione:** se durante le riparazioni le risorse si esauriscono, i lavori si fermano all'instante, senza il raggiongimento del valore massimo.
 - **Costo e durata:** dipendono dal livello della struttura, dall'entità del danno subito e dalla ricerca **Riparazione**.
 
-> Per capire come viene calcolato il danno subito da ciascuna struttura durante un attacco, consulta la [Guida alla Difesa](https://github.com/adlos96/Warrior-and-Wealth/blob/main/Wiki/Game/Battaglie/Difesa.md).
+> Per capire come viene calcolato il danno subito da ciascuna struttura durante un attacco, consulta la [Guida alla Difesa](main/Wiki/Game/Battaglie/Difesa.md).
 
 ## Strato 7: Attacco Diretto
 
 [#strato-7-attacco-diretto](#strato-7-attacco-diretto)
 
-L'ultimo strato non possiede Salute o Difesa proprie: la sua tenuta dipende dalla totalità dell'esercito schierato dal giocatore. Solo raggiungendo questo strato l'attaccante può saccheggiare risorse e diamanti; per le regole complete di combattimento e saccheggio applicate a questo strato, consulta la [Guida alla Difesa](https://github.com/adlos96/Warrior-and-Wealth/blob/main/Wiki/Game/Battaglie/Difesa.md) e la [Guida al PVP](https://github.com/adlos96/Warrior-and-Wealth/blob/main/Wiki/Game/Battaglie/PVP.md).
+L'ultimo strato non possiede Salute o Difesa proprie: la sua tenuta dipende dalla totalità dell'esercito schierato dal giocatore. Solo raggiungendo questo strato l'attaccante può saccheggiare risorse e diamanti; per le regole complete di combattimento e saccheggio applicate a questo strato, consulta la [Guida alla Difesa](main/Wiki/Game/Battaglie/Difesa.md) e la [Guida al PVP](main/Wiki/Game/Battaglie/PVP.md).
 
 ---
 
-[⬅️ Torna al Menu Principale](https://github.com/adlos96/Warrior-and-Wealth/blob/main/README.md) | [📅 Vai alla Guida Quest](https://github.com/adlos96/Warrior-and-Wealth/blob/main/Wiki/Game/Battaglie/Quest.md)
+[⬅️ Torna al Menu Principale]main/README.md) | [📅 Vai alla Guida Quest](Wiki/Game/Battaglie/Quest.md)

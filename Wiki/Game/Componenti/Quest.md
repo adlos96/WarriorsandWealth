@@ -23,4 +23,4 @@ Le **quest mensili** si sbloccano al raggiungimento dei requisiti indicati. Molt
 
 ---
 
-[⬅️ Torna al Menu Principale](../../../README.md) | [🏛️ Vai alla Guida Ricerca](Ricerca_A.md)
+[⬅️ Torna al Menu Principale](main/README.md) | [🏛️ Vai alla Guida Ricerca](main/Wiki/COmponenti/Ricerca.md)
