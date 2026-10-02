@@ -59,4 +59,4 @@ Le caserme sono il cuore pulsante dell'esercito: ogni struttura abilita l'addest
 
 ---
 
-[⬅️ Torna al Menu Principale](main/README.md) | [🏛️ Vai alla Guida Città](https://github.com/adlos96/Warrior-and-Wealth/blob/main/Wiki/Game/Componenti/Citt%C3%A0.md) | [💎 Vai alla Guida alle Risorse](https://github.com/adlos96/Warrior-and-Wealth/blob/main/Wiki/Game/Componenti/Risorse.md)
+[⬅️ Torna al Menu Principale](main/README.md) | [🏛️ Vai alla Guida Città](main/Wiki/Game/Componenti/Citt%C3%A0.md) | [💎 Vai alla Guida alle Risorse](main/Wiki/Game/Componenti/Risorse.md)
