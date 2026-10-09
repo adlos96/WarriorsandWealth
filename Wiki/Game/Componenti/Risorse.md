@@ -34,7 +34,7 @@ Sono l'equipaggiamento vero e proprio delle truppe, prodotto dai vari **Workshop
 | Risorsa      | Struttura           | Utilizzo Principale                                                    |
 | ------------ | -------------------- | ------------------------------------------------------------------------ |
 | **Spade**    | Workshop Spade       | Equipaggiamento base, indispensabile per l'addestramento di molte unità. |
-| **Lance**    | Workshop Lance       | Predilette dai Lancieri, unità versatili contro la cavalleria nemica.    |
+| **Lance**    | Workshop Lance       | Equipaggiamento dei Lancieri, la fanteria difensiva dell'esercito.    |
 | **Archi**    | Workshop Archi       | Necessari per addestrare gli Arcieri, la spina dorsale del tiro a distanza. |
 | **Scudi**    | Workshop Scudi       | Impiegati da numerose unità per rafforzarne la tenuta in combattimento.  |
 | **Armature** | Workshop Armature    | Aumentano la difesa delle unità, riducendo le perdite negli scontri prolungati. |
@@ -83,7 +83,7 @@ Generati esclusivamente dai **Feudi**, terreni virtuali di diverse rarità che, 
 > 🛡️ I **Tributi** non possono in alcun modo essere saccheggiati durante le battaglie **PVP**: una volta ottenuti, restano al sicuro.
 
 - **Ottenibili:** Feudi
-- **Valore di conversione:** Scambiabili per Diamanti Blu
+- **Valore di conversione:** Scambiabili per Diamanti Viola (il tasso è indicato nella schermata di scambio)
 - **Consiglio:** *Accumulane il più possibile: sono l'unica rendita che nessun nemico potrà mai sottrarti. Sono prelevabili.*
 
 ---

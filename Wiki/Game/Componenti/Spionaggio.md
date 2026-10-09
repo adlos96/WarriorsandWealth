@@ -26,7 +26,7 @@ Forza = Spionaggio (Attaccante) − Contro-Spionaggio (Difensore)
  
 - Se la forza è **≤ 0**, la missione fallisce e non ottieni alcuna informazione.
 - Più alta è la forza, più **livelli di dettaglio** sblocchi (fino a 6).
-- Non esiste un tetto massimo alla forza, ma **20 punti di differenza** sono già sufficienti per ottenere informazioni perfette.
+- Non esiste un tetto massimo alla forza, ma **15 punti di differenza** sono già sufficienti per ottenere informazioni esatte.
 ### Precisione
  
 [#precisione](#precisione)
@@ -34,18 +34,18 @@ Forza = Spionaggio (Attaccante) − Contro-Spionaggio (Difensore)
 La precisione determina quanto sono affidabili i numeri che ricevi nel rapporto:
  
 ```
-Precisione = Forza × 45   (cap massimo 1000)
+Precisione = Forza × 64   (cap massimo 1000)
 ```
  
 | Forza | Precisione | Effetto                                        |
 | :---: | :--------: | ----------------------------------------------- |
-| 1     | 45         | Informazioni molto approssimative (range ampio)  |
-| 5     | 225        | Informazioni parzialmente accurate               |
-| 10    | 450        | Informazioni moderatamente accurate              |
-| 15    | 675        | Informazioni abbastanza accurate                 |
-| 20+   | 900+       | **Informazioni esatte** (valori reali)           |
+| 1     | 64         | Informazioni molto approssimative (range ampio)  |
+| 5     | 320        | Informazioni parzialmente accurate               |
+| 10    | 640        | Informazioni abbastanza accurate                 |
+| 14    | 896        | Informazioni quasi esatte                        |
+| 15+   | 960+       | **Informazioni esatte** (valori reali)           |
  
-Con **precisione ≥ 900** (forza ≥ 20) il rapporto mostra i valori esatti del nemico. Sotto quella soglia, ricevi una **stima** compresa tra un valore minimo e un valore massimo.
+Con **precisione ≥ 900** (forza ≥ 15) il rapporto mostra i valori esatti del nemico. Sotto quella soglia, ricevi una **stima** compresa tra un valore minimo e un valore massimo.
  
 > 💡 **Consiglio:** non serve rincorrere la forza massima per ogni missione. Se ti basta sapere approssimativamente quante risorse ha un bersaglio prima di un saccheggio veloce, una forza modesta è più che sufficiente — riserva gli investimenti pesanti in Spionaggio per i bersagli che contano davvero.
  
@@ -79,12 +79,12 @@ La forza determina quali informazioni riesci a strappare al nemico: più è alta
 | Livello | Forza Richiesta | Cosa Rivela | Descrizione |
 | :---: | :--------: | :----------- | --------------------------------------- |
 | **0**   | ≤ 0              | ❌ **Missione fallita** | nessuna informazione.                                                            |
-| **1**   | 1 – 2            | **Risorse** | civili e militari. |
-| **2**   | 3 – 4             | **Truppe** | numero di unità schierate in ogni struttura difensiva della [Città](Wiki/Game/Componenti/Citta.md) (Ingresso, Mura, Cancello, Torri, Centro, Castello). |
-| **3**   | 5 – 6             | **Città e Difese** | Salute, Difesa e Guarnigione di Mura, Cancello, Torri e Castello.                    |
-| **4**   | 7 – 9             | **Edifici** | numero di edifici civili (Fattorie, Segherie, Cave, Miniere, Abitazioni) e militari (Workshop, Caserme). |
-| **5**   | 10 – 12           | **Ricerche** | livello di tutte le ricerche civili e militari del nemico.                                 |
-| **6**   | 13+               | **Bonus e Statistiche** | tutti i bonus attivi e le statistiche complete delle unità per ogni tier.        |
+| **1**   | 1                | **Risorse** | civili e militari. |
+| **2**   | 2 – 3             | **Truppe** | numero di unità schierate in ogni struttura difensiva della [Città](Wiki/Game/Componenti/Citta.md) (Ingresso, Mura, Cancello, Torri, Centro, Castello). |
+| **3**   | 4 – 5             | **Città e Difese** | Salute, Difesa e Guarnigione di Mura, Cancello, Torri e Castello.                    |
+| **4**   | 6 – 7             | **Edifici** | numero di edifici civili (Fattorie, Segherie, Cave, Miniere, Abitazioni) e militari (Workshop, Caserme). |
+| **5**   | 8 – 9             | **Ricerche** | livello di tutte le ricerche civili e militari del nemico.                                 |
+| **6**   | 10+               | **Bonus e Statistiche** | tutti i bonus attivi e le statistiche complete delle unità per ogni tier.        |
  
 ---
  
@@ -130,7 +130,22 @@ Dopo una missione riuscita, ricevi un rapporto che include data e ora, nome/live
 | **Statistiche** | Statistiche complete di tutte le unità (esatte).                     |
  
 Se la missione fallisce (forza ≤ 0), il rapporto si limita a segnalare l'insuccesso.
+
+### Leggere il Rapporto
+
+[#leggere-il-rapporto](#leggere-il-rapporto)
+
+- **Valori "????"**: se la forza non è sufficiente a rivelare un dato, nel rapporto compare "????" al suo posto. Aumenta la forza dello spionaggio per scoprirlo e per sbloccare maggiori dettagli; con una forza più alta migliora anche la precisione dei valori mostrati.
+- **Livelli delle unità**: ogni classe di truppe esiste su 5 livelli (I–V) e un esercito può avere unità di livelli diversi. Nelle sezioni delle strutture e delle statistiche trovi un **selettore dei livelli** per consultare la composizione e le statistiche di ciascun livello. Se le unità non sono ancora rivelate dalla forza della missione, il selettore non è disponibile: aumenta la forza dello spionaggio per mostrare in dettaglio la composizione delle unità.
  
+---
+ 
+## Spiare un Giocatore
+
+[#spiare-un-giocatore](#spiare-un-giocatore)
+
+Puoi spiare un altro giocatore direttamente dalla lista PVP: seleziona l'avversario e premi **Esplora** (accanto ad **Attacca**). La missione ha un costo in oro e, come ogni altra, produce un rapporto che trovi tra i tuoi report. È il modo migliore per valutare un bersaglio prima di un attacco o di un [Raduno](main/Wiki/Game/Componenti/Raduno.md).
+
 ---
  
 ## Migliorare lo Spionaggio
@@ -145,7 +160,7 @@ Entrambe le discipline si potenziano tramite ricerca dedicata:
 | **Contro-Spionaggio**  | Riduce la forza dello spionaggio nemico, proteggendo le tue informazioni.   |
  
 **Strategie:**
-- **Attaccante:** investi in Spionaggio prima di ogni campagna importante — una forza ≥ 20 garantisce informazioni esatte su cui basare il piano d'assedio.
+- **Attaccante:** investi in Spionaggio prima di ogni campagna importante — una forza ≥ 15 garantisce informazioni esatte su cui basare il piano d'assedio.
 - **Difensore:** investi in Contro-Spionaggio per proteggere i tuoi segreti e ridurre l'efficacia delle spie nemiche.
 - **Equilibrio:** avere entrambi alti ti rende un avversario temibile sia in attacco che in difesa.
 ---
@@ -156,10 +171,10 @@ Entrambe le discipline si potenziano tramite ricerca dedicata:
  
 | Scenario              | Spionaggio | Contro-Spionaggio | Forza | Precisione | Livello | Risultato                          |
 | ----------------------- | :----------: | :------------------: | :-----: | :----------: | :-------: | ------------------------------------- |
-| **Principiante**       | 2            | 0                    | 2      | 90           | 1        | Vede solo le risorse.                  |
-| **Intermedio**         | 8            | 2                    | 6      | 270          | 3        | Vede risorse, truppe e difese.         |
-| **Avanzato**           | 15           | 3                    | 12     | 540          | 5        | Vede tutto tranne i bonus.             |
-| **Elite**              | 25           | 5                    | 20     | 900          | 6        | Vede **tutto**, con precisione esatta. |
+| **Principiante**       | 2            | 0                    | 2      | 128          | 2        | Vede risorse e truppe (stimate).       |
+| **Intermedio**         | 8            | 2                    | 6      | 384          | 4        | Vede risorse, truppe, difese ed edifici. |
+| **Avanzato**           | 15           | 3                    | 12     | 768          | 6        | Vede **tutto**, ma con valori stimati. |
+| **Elite**              | 25           | 5                    | 20     | 1000         | 6        | Vede **tutto**, con precisione esatta. |
 | **Contro-Spionaggio pari** | 20        | 20                   | 0      | 0            | 0        | ❌ Missione fallita!                    |
  
  

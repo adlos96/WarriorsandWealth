@@ -33,7 +33,7 @@ Prima dell'ingaggio corpo a corpo, le unità da tiro schierate (come arcieri e c
 - **Calcolo del Danno**: viene calcolato il valore totale di **Danno a Distanza**, generato in base al numero e alle statistiche delle unità di tiro presenti sul campo.
 - **Bersaglio Unico**: il danno generato viene assorbito dai **guerrieri e lancieri**, colpendo le unità di prima linea prima del contatto diretto.
 
-> **Unità a Distanza**: L'efficacia dipende dalla disponibilità di **frecce**. Senza questo consumabile, le unità a distanza subiscono una pesante penalità al danno inflitto.
+> **Unità a Distanza**: L'efficacia dipende dalla disponibilità di **frecce**. Senza questo consumabile, le unità a distanza subiscono una pesante penalità al danno inflitto. Se le frecce non bastano per tutti gli arcieri e le catapulte, il danno viene ridotto in proporzione.
 
 ### 2. Fase Corpo a Corpo
 
@@ -44,6 +44,14 @@ Esaurita la fase a distanza, si passa all'ingaggio diretto. Quando il nemico sfe
 1. **Assorbimento**: una quota maggioritaria viene assorbita dalla **Difesa** della struttura.
 2. **Danno Strutturale**: una quota minore intacca direttamente la **Salute** dell'edificio.
 3. **Danno alle Truppe**: il valore residuo colpisce la **guarnigione** schierata all'interno.
+
+> 🏹 **Frecce nel corpo a corpo**: arcieri e catapulte schierati usano le frecce anche in questa fase, ma ne consumano **la metà** rispetto alla fase a distanza. Anche qui, se le frecce non bastano il loro danno viene ridotto.
+
+### Frecce nel Report
+
+[#frecce-nel-report](#frecce-nel-report)
+
+Nel report della battaglia, ogni fase mostra le **frecce usate**. Se le frecce erano sufficienti vedi soltanto quel numero. Se invece non bastavano, compare l'avviso **Poche frecce** e, accanto alle frecce usate, anche quelle **necessarie**: così capisci quante te ne sarebbero servite per colpire con la piena efficacia.
 
 ### Risoluzione e Avanzamento
 

@@ -30,7 +30,7 @@ Per ogni struttura sono rilevanti tre valori principali: **Salute**, **Difesa** 
 | **Difesa**      | Riduce i danni subiti: assorbe parte della forza d'attacco prima che venga sottratta alla Salute.                                                            |
 | **Guarnigione** | Numero di unità che possono presidiare la struttura; la sua presenza aumenta l'efficacia difensiva e riduce i danni ricevuti dalla struttura.                |
 
-> ⚠️ Una struttura senza guarnigione è comunque in grado di assorbire gli attacchi, ma subirà danni maggiori rispetto a una struttura presidiata. La struttura deve essere danneggiata per far si che le unità la possano attraversare.
+> ⚠️ Una struttura senza guarnigione è comunque in grado di assorbire gli attacchi, ma subirà danni maggiori rispetto a una struttura presidiata. La struttura deve essere danneggiata perché le unità possano attraversarla.
 
 ## Riparazioni
 
@@ -38,8 +38,8 @@ Per ogni struttura sono rilevanti tre valori principali: **Salute**, **Difesa** 
 
 Durante un assedio, quando la struttura viene danneggiata, le riparazioni sono fondamentali per il suo mantenimento. La salute e la difesa della struttura non si ripristinano da sole, servono delle squadre di riparatori, tempo e molte risorse per questa opera.
 
-- **Avvio:** quando una o più strutture sono danneggiate puoi avviare una riparazione specifica o generale. in base alle strutture coinvolote le risorse richieste posso variare, ogni punto ripristinato preleva risorse dai magazzini del villaggio, questa operazione richiede del tempo, in base all valore da ripristinare.
-- **Interruzione:** se durante le riparazioni le risorse si esauriscono, i lavori si fermano all'instante, senza il raggiongimento del valore massimo.
+- **Avvio:** quando una o più strutture sono danneggiate puoi avviare una riparazione specifica o generale. In base alle strutture coinvolte le risorse richieste possono variare: ogni punto ripristinato preleva risorse dai magazzini del villaggio, e l'operazione richiede tempo in proporzione al valore da ripristinare.
+- **Interruzione:** se durante le riparazioni le risorse si esauriscono, i lavori si fermano all'istante, senza raggiungere il valore massimo.
 - **Costo e durata:** dipendono dal livello della struttura, dall'entità del danno subito e dalla ricerca **Riparazione**.
 
 > Per capire come viene calcolato il danno subito da ciascuna struttura durante un attacco, consulta la [Guida alla Difesa](main/Wiki/Game/Battaglie/Difesa.md).

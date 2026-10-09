@@ -22,7 +22,7 @@ Il **VIP** è il componente premium base di Warriors & Wealth. Non è complesso 
   - Bonus Ricerca +5%
   - Salute Strutture +5%
   
-- **Durata:** 30 giorni, consultare la sezione shop del gioco.
+- **Durata:** 24 ore per ogni acquisto; acquisti ripetuti si sommano, fino a un massimo di 2 giorni di VIP accumulati.
 
 > **📌 Nota:** questo pacchetto non conferisce diamanti, ed è generalmente preferito da chi vuole dare un "boost" alla propria esperienza di gioco, per raggiungere gli obiettivi prefissati in minor tempo.
 
@@ -52,13 +52,17 @@ Il terzo e più completo componente premium è il **Gamepass Gold**, che si aggi
 - **Bonus permanenti:** un ulteriore pacchetto di potenziamenti attivi per tutta la durata del Gamepass.
 - **Durata:** 30 giorni, consultare la sezione shop del gioco.
 
-Quando si acquista il pacchetto **Gamepass Gold** si ha accesso alla *scala dei premi*, ogni giorno di connessione sarà possibile ottenere il premio relativo. Questa sezione necessita di un accesso giornaliero, se per un giorno non ri ritira il premio, la scala verrà resettata al primo giorno, indipendentemente dalla posizione attuale.
+Quando si acquista il pacchetto **Gamepass Gold** si ha accesso alla *scala dei premi*, ogni giorno di connessione sarà possibile ottenere il premio relativo. Questa sezione necessita di un accesso giornaliero, se per un giorno non si ritira il premio, la scala verrà resettata al primo giorno, indipendentemente dalla posizione attuale.
 
-> **Esempio:** Se il giocatore ha raccolto per 21 giorni di fila il premio, trovandosi in 21 esima posizione, ma il 22 esimo giorno non vuole connettersi, si riconnetterà il giorno 23 ritrovandosi in posizione 1 ripartendo da capo.
+> **Esempio:** Se hai ritirato il premio per 21 giorni di fila (sei al 21° giorno) ma salti il 22°, quando ti riconnetti il 23° giorno ripartirai dal giorno 1.
 
 > **📌 Nota:** questo pacchetto conferisce una mole costante di diamanti viola, ed è generalmente preferito da chi vuole ampliare il suo possedimento di feudi. 
 
-I bonus complessivi offerti da VIP e Gamepass sono pensati per aumentare la **resilienza** del villaggio, non per offrire un vantaggio competitivo drastico ("game changer"). Ulteriori vantaggi opzionali restano comunque acquistabili singolarmente nello shop.
+I bonus complessivi offerti da VIP e Gamepass sono pensati per aumentare la **resilienza** del villaggio, non per offrire un vantaggio competitivo drastico ("game changer"). Ulteriori vantaggi opzionali restano comunque acquistabili singolarmente nello shop:
+
+- **Scudo della Pace** (8, 24 o 72 ore): protegge il villaggio dagli attacchi PVP per la durata scelta.
+- **Costruttori** e **Reclutatori** (24 o 48 ore): aggiungono temporaneamente una coda di costruzione o di addestramento, anche senza VIP o Gamepass.
+- **Pacchetti Diamanti** e **Starter**: acquisti una tantum di Diamanti Viola (gli Starter includono anche Diamanti Blu).
 
 ---
 

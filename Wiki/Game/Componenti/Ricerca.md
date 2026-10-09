@@ -10,7 +10,7 @@ La ricerca è l'unica sezione che dispone di una sola coda "di ricerca", permett
 
 Il **livello** gioca un ruolo fondamentale nel sistema di ricerca: funge da **prerequisito** per lo sviluppo di altre statistiche. Per esempio, non puoi potenziare all'infinito l'Attacco di un Guerriero senza prima averne aumentato il Livello. Questo meccanismo garantisce uno sviluppo bilanciato delle tue unità e delle tue strutture, impedendo ai giocatori di specializzarsi in una singola statistica a discapito delle altre.
 
-Similmente il **livello** del **giocatore**: funge da **prerequisito** per lo sviluppo delle tecnologie del villaggio. Impendendo al giocatore di focalizzarsi su una sola ricerca. E' certamente possibile ignorare determinate ricerche per concentrarsi maggiormente su altre.
+Similmente il **livello** del **giocatore**: funge da **prerequisito** per lo sviluppo delle tecnologie del villaggio. Questo impedisce di concentrarsi su una sola ricerca: è comunque possibile ignorarne alcune per puntare di più su altre.
 
 ## Tecnologie di Villaggio
 

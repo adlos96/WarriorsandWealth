@@ -34,7 +34,7 @@ I Workshop trasformano le materie prime in equipaggiamento vero e proprio: senza
 | **Struttura**          | **Risorsa** | **Descrizione**                                     |
 | ----------------------- | ----------- | ------------------------------------------------------ |
 | **Workshop spade**      | Spade       | Equipaggiamento base, indispensabile per molte unità.  |
-| **Workshop lance**      | Lance       | Preferite dalle unità Lanciere, versatili contro la cavalleria. |
+| **Workshop lance**      | Lance       | Equipaggiamento dei Lancieri. |
 | **Workshop archi**      | Archi       | Necessari per addestrare gli Arcieri.                  |
 | **Workshop scudi**      | Scudi       | Usati da numerose unità per rafforzarne la tenuta in combattimento. |
 | **Workshop armature**   | Armature    | Aumentano la difesa delle unità, riducendo le perdite negli scontri prolungati. |
@@ -46,7 +46,7 @@ I Workshop trasformano le materie prime in equipaggiamento vero e proprio: senza
 
 [#caserme](#caserme)
 
-Le caserme sono il cuore pulsante dell'esercito: ogni struttura abilita l'addestramento di una specifica unità e ne aumenta il limite massimo addestrabile. Più caserme si costruiscono e potenziano, più il villaggio può sostenere un esercito numeroso e diversificato.
+Le caserme sono il cuore pulsante dell'esercito: ogni struttura abilita l'addestramento di una specifica unità e ne aumenta il limite massimo addestrabile. Più caserme si costruiscono, più il villaggio può sostenere un esercito numeroso e diversificato.
 
 > **⚠️ Nota:** le stesse unità presentano varianti per tier, che influiscono su statistiche come **Salute**, **Difesa**, **Attacco**, **Trasporto** e sul tipo di equipaggiamento richiesto per l'addestramento. Consulta la sezione **Addestramento/Reclutamento** per i dettagli sui tier.
 

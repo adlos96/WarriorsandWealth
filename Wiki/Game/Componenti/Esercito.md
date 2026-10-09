@@ -42,6 +42,8 @@ Le statistiche principali di ogni unità sono:
 
 I valori riportati sono **indicativi** e possono variare. Per i valori aggiornati e precisi, consulta le sezioni dedicate direttamente in game.
 
+Per addestrare le unità dei livelli II–V serve aver raggiunto un livello minimo del giocatore: lo trovi indicato nella schermata di Addestramento.
+
 ---
 
 ### Guerriero
@@ -60,11 +62,11 @@ I valori riportati sono **indicativi** e possono variare. Per i valori aggiornat
 
 | Livello | Salute | Attacco | Difesa | Zaino | 📈 Incremento |
 |---------|--------|---------|--------|-------|---------------|
-| I       | 7      | 3       | **7**  | 150   | –             |
-| II      | 9      | 4       | **9**  | 200   | +2 / +1 / +2 / +50 |
-| III     | 11     | 5       | **11** | 250   | +2 / +1 / +2 / +50 |
-| IV      | 13     | 6       | **13** | 300   | +2 / +1 / +2 / +50 |
-| V       | 15     | 7       | **15** | 350   | +2 / +1 / +2 / +50 |
+| I | 7 | 4 | **6** | 150 | – |
+| II | 9 | 6 | **7** | 200 | +2 / +2 / +1 / +50 |
+| III | 11 | 8 | **8** | 250 | +2 / +2 / +1 / +50 |
+| IV | 13 | 10 | **9** | 300 | +2 / +2 / +1 / +50 |
+| V | 15 | 12 | **10** | 350 | +2 / +2 / +1 / +50 |
 
 ---
 
@@ -72,11 +74,11 @@ I valori riportati sono **indicativi** e possono variare. Per i valori aggiornat
 
 | Livello | Salute | Attacco | Difesa | Zaino | 📈 Incremento |
 |---------|--------|---------|--------|-------|---------------|
-| I       | 5      | **8**   | 3      | 200   | –             |
-| II      | 7      | **11**  | 4      | 250   | +2 / +3 / +1 / +50 |
-| III     | 9      | **14**  | 5      | 300   | +2 / +3 / +1 / +50 |
-| IV      | 11     | **17**  | 6      | 350   | +2 / +3 / +1 / +50 |
-| V       | 13     | **20**  | 7      | 400   | +2 / +3 / +1 / +50 |
+| I | 6 | **6** | 3 | 200 | – |
+| II | 8 | **8** | 4 | 250 | +2 / +2 / +1 / +50 |
+| III | 10 | **10** | 5 | 300 | +2 / +2 / +1 / +50 |
+| IV | 12 | **12** | 6 | 350 | +2 / +2 / +1 / +50 |
+| V | 14 | **14** | 7 | 400 | +2 / +2 / +1 / +50 |
 
 ---
 
@@ -84,11 +86,11 @@ I valori riportati sono **indicativi** e possono variare. Per i valori aggiornat
 
 | Livello | Salute | Attacco | Difesa | Zaino | 📈 Incremento |
 |---------|--------|---------|--------|-------|---------------|
-| I       | **8**  | **11**  | 6      | **250** | –             |
-| II      | **10** | **14**  | 7      | **300** | +2 / +3 / +1 / +50 |
-| III     | **12** | **17**  | 8      | **350** | +2 / +3 / +1 / +50 |
-| IV      | **14** | **20**  | 9      | **400** | +2 / +3 / +1 / +50 |
-| V       | **16** | **23**  | 10     | **450** | +2 / +3 / +1 / +50 |
+| I | **8** | **8** | 7 | **250** | – |
+| II | **10** | **10** | 8 | **300** | +2 / +2 / +1 / +50 |
+| III | **12** | **12** | 9 | **350** | +2 / +2 / +1 / +50 |
+| IV | **14** | **14** | 10 | **400** | +2 / +2 / +1 / +50 |
+| V | **16** | **16** | 11 | **450** | +2 / +2 / +1 / +50 |
 
 ### Ricerca delle Statistiche
 
@@ -105,6 +107,8 @@ Ogni ricerca richiede risorse e tempo, e il livello dell'unità è un prerequisi
 ## Capacità e Mantenimento
 
 Non esiste un limite fisso alla dimensione complessiva del tuo esercito, ma ogni tipologia di unità ha un **limite massimo** determinato dal numero di Caserme costruite per quella classe. Costruire più Caserme dello stesso tipo aumenta il limite di unità reclutabili per quella categoria.
+
+Le unità schierate in difesa nelle strutture della Città **contano comunque** per questo limite: un'unità spostata dal villaggio a un presidio occupa sempre il suo posto in Caserma. Nella Panoramica la barra di ogni unità lo mostra con due colori: la parte **verde** sono le unità presenti nel villaggio (il numero scritto è quello), la parte **arancione** quelle dello stesso livello schierate in difesa nelle strutture, mentre la parte vuota è lo spazio ancora libero. Se la barra è tutta colorata ma nel villaggio ne vedi meno del limite, controlla le guarnigioni: lo spazio per addestrarne altre dipende dal totale, non solo da chi hai a casa.
 
 Ogni unità richiede inoltre un **costo di mantenimento** in risorse (principalmente cibo e oro) che viene detratto periodicamente. Se le tue riserve non sono sufficienti, il morale delle truppe cala e potrebbero disertare.
 

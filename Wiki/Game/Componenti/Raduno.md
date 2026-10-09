@@ -87,7 +87,11 @@ Qui il Raduno non affronta un unico scontro, ma l'intero sistema difensivo a str
 La ricompensa di un Raduno vittorioso si distribuisce tra chi vi ha preso parte, non va a un unico vincitore:
 
 - **Risorse**: il bottino raccolto (civili, e nel caso del PVP anche **Diamanti Blu e Viola**) dipende dalla capacità di trasporto complessiva delle truppe sopravvissute, ed è ripartito tra i partecipanti secondo quanto ciascuno ha effettivamente contribuito a trasportare.
-- **Diamanti nel Raduno PVP**: valgono esattamente gli stessi due tetti giornalieri del PVP singolo — limite per bersaglio e limite giornaliero complessivo per ciascun attaccante. Un Raduno non è un modo per aggirare questi limiti: consulta la [Guida al PVP](main/Wiki/Game/Battaglie/PVP.md) per i dettagli.
+- **Diamanti nel Raduno PVP**: valgono esattamente gli stessi due tetti giornalieri del PVP singolo — limite per bersaglio e limite giornaliero complessivo per ciascun attaccante. Un Raduno non è un modo per aggirare questi limiti: consulta la [Guida al PVP](main/Wiki/Game/Battaglie/PVP.md) per i dettagli. In pratica:
+  - il difensore non perde mai più diamanti del proprio limite giornaliero, anche se la somma dei limiti dei partecipanti sarebbe molto più alta (se al difensore ne restano 10 da perdere, il Raduno ne porta via al massimo 10, per quanto numerosi siano i partecipanti);
+  - quel totale viene diviso tra i partecipanti in base a quanto ciascuno può trasportare, come per le altre risorse;
+  - se qualcuno raggiunge il proprio limite giornaliero, la sua parte passa agli altri partecipanti che hanno ancora margine;
+  - al difensore vengono tolti, e contati come persi, solo i diamanti realmente assegnati.
 - **Esperienza**: ogni partecipante guadagna Esperienza in base al proprio contributo in battaglia, non un valore fisso uguale per tutti. Nel caso di un Raduno contro un giocatore, anche il difensore guadagna Esperienza dallo scontro, vinca o perda.
 - **Report personale**: al termine dell'attacco ogni partecipante riceve il proprio resoconto di battaglia (lo stesso formato usato per PVP e PVE in solitaria), oltre a un riepilogo complessivo dell'esito del Raduno.
 

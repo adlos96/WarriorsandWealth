@@ -31,13 +31,13 @@ Oltre al bottino materiale, ogni battaglia PvP contribuisce all'**Esperienza** d
 
 [#limiti-di-saccheggio-sui-diamanti](#limiti-di-saccheggio-sui-diamanti)
 
-Per evitare che il PvP degeneri in una caccia sistematica agli stessi bersagli, il saccheggio dei Diamanti è sottoposto a **due tetti indipendenti**, entrambi con reset ogni 24 ore.
+Per evitare che il PvP degeneri in una caccia sistematica agli stessi bersagli, il saccheggio dei Diamanti è sottoposto a **due tetti indipendenti**, entrambi con reset giornaliero alle **06:00** (ora del server).
 
 ### Limite per Bersaglio
 
 [#limite-per-bersaglio](#limite-per-bersaglio)
 
-Ogni difensore può essere "spremuto" fino a un ammontare massimo di diamanti nell'arco di 24 ore. Una volta raggiunta questa soglia, quel particolare avversario continua a essere un obiettivo valido per le risorse civili, ma non regalerà più un solo diamante fino al reset del giorno successivo.
+Ogni difensore può perdere, nell'arco della giornata, solo un ammontare massimo di diamanti (con un limite per i Blu e uno per i Viola). Una volta raggiunta questa soglia, quel particolare avversario continua a essere un obiettivo valido per le risorse civili, ma non regalerà più un solo diamante fino al reset delle 06:00. Il limite vale anche per te quando sei tu a difenderti: non puoi perdere più diamanti di quanto previsto in una giornata.
 
 > **Approccio Tattico:** conviene tenere d'occhio più di un bersaglio. Quando un difensore "si prosciuga", è il momento di individuare il prossimo villaggio da assediare. 
 
@@ -48,10 +48,23 @@ Ogni difensore può essere "spremuto" fino a un ammontare massimo di diamanti ne
 
 [#limite-giornaliero](#limite-giornaliero)
 
-Oltre al tetto per singolo bersaglio, esiste un limite complessivo di diamanti (Blu e Viola) che ogni attaccante può accumulare via saccheggio nell'arco delle 24 ore, indipendentemente da quanti giocatori decida di colpire. Superata questa soglia, ogni ulteriore attacco PvP continuerà a fruttare risorse civili, ma nessun diamante fino al reset.
+Oltre al tetto per singolo bersaglio, esiste un limite complessivo di diamanti (Blu e Viola) che ogni attaccante può accumulare via saccheggio nell'arco della giornata, indipendentemente da quanti giocatori decida di colpire. Superata questa soglia, ogni ulteriore attacco PvP continuerà a fruttare risorse civili, ma nessun diamante fino al reset.
 Le due risorse hanno due limiti distinti.
 
 > ⚠️ In entrambi i casi le risorse civili **non sono mai limitate**: i due tetti riguardano esclusivamente i Diamanti Blu e Viola.
+
+### Tenere d'Occhio i Limiti
+
+[#tenere-docchio-i-limiti](#tenere-docchio-i-limiti)
+
+Non devi fare i conti a mente: nella schermata PVP trovi il riquadro **Limiti giornalieri diamanti**, con due righe e il tempo che manca al prossimo reset.
+
+- **Saccheggio:** quanti diamanti Viola e Blu hai già saccheggiato oggi, rispetto al tuo massimo giornaliero.
+- **Persi:** quanti diamanti Viola e Blu hai già perso oggi come difensore, rispetto al massimo che puoi perdere.
+
+I valori diventano rossi quando un limite è esaurito. Inoltre, accanto al nome di ogni avversario nella lista, vedi quanti diamanti Viola e Blu puoi ancora saccheggiargli oggi: è il valore più basso tra ciò che puoi ancora portare via tu e ciò che quel giocatore può ancora perdere. Se vedi **0**, quell'avversario non ti darà diamanti fino al reset (le risorse civili restano comunque saccheggiabili).
+
+> 🔭 Prima di attaccare puoi anche spiare un avversario direttamente dalla lista PVP con il pulsante **Esplora**: consulta la [Guida allo Spionaggio](main/Wiki/Game/Componenti/Spionaggio.md).
 
 ### Perché questi limiti
 

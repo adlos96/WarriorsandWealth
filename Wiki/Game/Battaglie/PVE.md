@@ -29,7 +29,7 @@ I **Villaggi Barbari** sono insediamenti di dimensioni contenute, ideali per le 
 
 Le **Città Barbare** sono possenti roccaforti difese da eserciti imponenti e custodi di scorte di risorse nettamente più elevate rispetto ai villaggi.
 
-- **Frequenza di Reset:** Si resettano ogni **30 giorni**, rappresentando obiettivi di lungo periodo.
+- **Frequenza di Reset:** Si resettano ogni **mese** (il primo giorno del mese, insieme alle quest mensili), rappresentando obiettivi di lungo periodo.
 - **Approccio Tattico:** Data la grande quantità di truppe difensive, l'approccio consigliato è organizzare un **Raduno** — un attacco coordinato con altri giocatori — per distribuire i danni e ridurre drasticamente le perdite di truppe. Nulla vieta, tuttavia, ai generali più avanzati di tentare la conquista in solitaria.
 
 ---
