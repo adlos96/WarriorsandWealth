@@ -20,7 +20,7 @@ La catena di produzione si fonda sull'equilibrio di cinque risorse primarie — 
 - **Ricerca Tecnologica:** sviluppo di nuove conoscenze per sbloccare truppe avanzate e bonus di produzione.
 - **Forza Militare e Difesa:** reclutamento dell'esercito, addestramento truppe — che richiede anche risorse militari dedicate come Spade, Lance e Archi — e riparazione rapida delle Mura e delle altre strutture difensive della Città danneggiate dagli assedi.
 
-> Per il dettaglio completo di tutte le risorse, civili, militari e rare, consulta la [Guida alle Risorse](https://github.com/adlos96/Warrior-and-Wealth/blob/main/Wiki/Game/Componenti/Risorse.md).
+> Per il dettaglio completo di tutte le risorse, civili, militari e rare, consulta la [Guida alle Risorse](https://github.com/adlos96/WarriorsandWealth/blob/main/Wiki/Game/Componenti/Risorse.md).
 
 ---
 
@@ -54,4 +54,4 @@ L'esito dello scontro dipende dalla composizione dell'esercito, dai parametri di
 
 ### **Pianifica la tua strategia, conquista i Feudi e fonda un impero di valore.**
 
-[⬅️ Torna al Menu Principale](https://github.com/adlos96/Warrior-and-Wealth/blob/main/README.md) | [🏛️ Vai alla Guida Premium](https://github.com/adlos96/Warrior-and-Wealth/blob/main/Wiki/Game/Componenti/Premium.md)
+[⬅️ Torna al Menu Principale](https://github.com/adlos96/WarriorsandWealth/blob/main/README.md) | [🏛️ Vai alla Guida Premium](https://github.com/adlos96/WarriorsandWealth/blob/main/Wiki/Game/Componenti/Premium.md)
