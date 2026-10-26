@@ -16,9 +16,9 @@ La progressione PvE è articolata su **20 livelli di difficoltà sequenziali**: 
 
 [#villaggi-barbari](#villaggi-barbari)
 
-I **Villaggi Barbari** sono insediamenti di dimensioni contenute, ideali per le incursioni quotidiane in solitaria.
+I **Villaggi Barbari** sono insediamenti di dimensioni contenute, ideali per le incursioni in solitaria.
 
-- **Frequenza di Reset:** Si resettano ogni **24 ore**, garantendo un flusso costante di risorse e ricompense giorno per giorno.
+- **Frequenza di Reset:** Si rinnovano ogni **mese** (il primo giorno del mese, insieme alle Città Barbare e alle quest mensili). Sono personali: ogni giocatore ha i suoi, e la loro forza segue il livello del giocatore al momento del rinnovo.
 - **Approccio Tattico:** Difesi da guarnigioni ridotte, rappresentano il bersaglio perfetto per attacchi diretti individuali senza dover mobilitare l'alleanza.
 
 ---

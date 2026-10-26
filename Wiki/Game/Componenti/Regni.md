@@ -62,7 +62,7 @@ Ogni Regno ha le sue **20 Città Barbare**, una per livello di difficoltà, ugua
 - **Le scorte finiscono.** Cibo, legno, pietra, ferro, oro e Diamanti che vengono saccheggiati escono dalla Città e non ci sono più per gli altri fino alla rigenerazione.
 - **Si rigenerano ogni mese.** Il primo giorno del mese tutte le Città tornano nuove, con difese e scorte al massimo (per i Diamanti Viola c'è anche un piccolo recupero di quanto non è stato preso, vedi più sotto).
 
-I **Villaggi Barbari**, invece, sono personali: ognuno ha i suoi, si rinnovano ogni 24 ore e seguono il livello del giocatore. Non cambiano se cambi Regno.
+I **Villaggi Barbari**, invece, sono personali: ognuno ha i suoi e si rinnovano una volta al mese, insieme alle Città (il primo giorno del mese). La loro forza segue il livello del giocatore al momento del rinnovo. Non cambiano se cambi Regno.
 
 ---
 
