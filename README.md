@@ -1,58 +1,43 @@
-# Warrior & Wealth
- 
-[#warrior--wealth](#warrior--wealth)
- 
-Benvenuto, futuro sovrano.
- 
-Un villaggio ti attende: poche capanne, campi non ancora coltivati e mura che devono ancora essere alzate. Sta a te trasformarlo in un impero capace di resistere agli assalti barbari e alle ambizioni degli altri giocatori.
- 
-> Questa è la guida ufficiale per iniziare a giocare.
- 
-## Di cosa si tratta?
- 
-[#di-cosa-si-tratta](#di-cosa-si-tratta)
- 
-**Warrior & Wealth** è un gioco strategico multiplayer ambientato in un'epoca medievale, dove ogni giocatore costruisce, amministra e difende il proprio villaggio in una competizione costante per risorse, territorio e prestigio.
- 
-Tra un ordine di costruzione e l'altro dovrai bilanciare economia e forza militare: potenzia gli edifici civili per sostenere la crescita, addestra il tuo esercito nelle caserme, e scegli quando colpire — che sia una spedizione contro un Villaggio Barbaro o un attacco diretto contro le mura di un altro giocatore. Ogni decisione, dalla ricerca alla difesa, ti avvicina (o allontana) dal diventare il prossimo grande sovrano del regno.
- 
-### 🗺️ Navigazione Rapida
- 
-[#️-navigazione-rapida](#️-navigazione-rapida)
+<p align="center"><img src="assets/wiki/Logo_WW.png" width="300" alt="Warriors &amp; Wealth"></p>
 
-| Preludio | Gioco | Battaglie |
-| :--- | :--- | :--- |
-| [👋 Introduzione](Wiki/Game/Introduzione.md) | [💎 Risorse](Wiki/Game/Componenti/Risorse.md) | [🛡️ Difesa](Wiki/Game/Battaglie/Difesa.md) |
-| [👑 Premium](Wiki/Game/Componenti/Premium.md) | [🏘️ Edifici](Wiki/Game/Componenti/Edifici.md) | [🏹 PVE](Wiki/Game/Battaglie/PVE.md) |
-| [⭐ Esperienza](Wiki/Game/Componenti/Esperienza.md) | [🏰 Città](Wiki/Game/Componenti/Citta.md) | [⚔️ PVP](Wiki/Game/Battaglie/PVP.md) |
-| [🏯 Regni](Wiki/Game/Componenti/Regni.md) | [📅 Quest](Wiki/Game/Componenti/Quest.md) | [🔭 Spionaggio](Wiki/Game/Componenti/Spionaggio.md) |
-|  | [🎖️ Esercito](Wiki/Game/Componenti/Esercito.md) | [🎯 Raduno](Wiki/Game/Componenti/Raduno.md) |
-|  | [🧪 Ricerca](Wiki/Game/Componenti/Ricerca.md) | |
-|  | [💡 Tecnologia](Wiki/Game/Componenti/Tecnologia.md) | |
+<h1 align="center">Warriors &amp; Wealth</h1>
 
---- 
-
-## Lingue Supportate
-
-[#lingue-supportate](#lingue-supportate)
-
-La wiki e il client di gioco sono attualmente disponibili nelle seguenti lingue:
-
-[![](https://camo.githubusercontent.com/2935b6f311ade557d397c119e7cec2d2f8e0691fdcc974ae53d9ab3702575c7c/68747470733a2f2f666c616763646e2e636f6d2f7732302f69742e706e67)](https://camo.githubusercontent.com/2935b6f311ade557d397c119e7cec2d2f8e0691fdcc974ae53d9ab3702575c7c/68747470733a2f2f666c616763646e2e636f6d2f7732302f69742e706e67) Italiano
-
-[![](https://camo.githubusercontent.com/211f39afa885f0c03d433f2f48865c6f87e69bcafd9d71cf263da6b5436f398f/68747470733a2f2f666c616763646e2e636f6d2f7732302f67622e706e67)](https://camo.githubusercontent.com/211f39afa885f0c03d433f2f48865c6f87e69bcafd9d71cf263da6b5436f398f/68747470733a2f2f666c616763646e2e636f6d2f7732302f67622e706e67) English
-
-## 🛠️ Requisiti Minimi
-
-[#️-requisiti-minimi](#️-requisiti-minimi)
-
-Warrior & Wealth è pensato per essere leggero e accessibile: non servono macchine da gaming per iniziare a costruire il proprio impero.
-
-- **OS:** Windows 10
-- **RAM:** 1GB
-- **Spazio:** 250MB
-- **.NET:** [.NET 9.0](https://dotnet.microsoft.com/download/dotnet/9.0)
+<p align="center">
+<a href="Wiki/IT/README.md">🇮🇹 <b>Italiano</b></a> &nbsp;·&nbsp; <a href="Wiki/EN/README.md">🇬🇧 <b>English</b></a> &nbsp;·&nbsp; <a href="https://milos.warriorsandwealth.com:8448/index.html">▶️ <b>Gioca ora / Play now</b></a>
+</p>
 
 ---
 
-[Torna in alto ↑](#-Warrior-&-Wealth)
+## 🇮🇹 Italiano
+
+Benvenuto, futuro sovrano.
+
+Un villaggio ti attende: poche capanne, campi non ancora coltivati e mura che devono ancora essere alzate. Sta a te trasformarlo in un impero capace di resistere agli assalti barbari e alle ambizioni degli altri giocatori.
+
+**Warriors & Wealth** è un gioco strategico multiplayer ambientato in un'epoca medievale, dove ogni giocatore costruisce, amministra e difende il proprio villaggio in una competizione costante per risorse, territorio e prestigio. Tra un ordine di costruzione e l'altro dovrai bilanciare economia e forza militare: potenzia gli edifici civili per sostenere la crescita, addestra il tuo esercito nelle caserme, e scegli quando colpire, che sia una spedizione contro un Villaggio Barbaro o un attacco diretto contro le mura di un altro giocatore.
+
+📖 **La wiki ufficiale** spiega ogni parte del gioco con gli stessi nomi di schede e pulsanti che vedi nel client, ed è disponibile anche dentro il gioco, dal menu del giocatore.
+
+**Da dove cominciare:** [Benvenuto in Warriors & Wealth](Wiki/IT/Introduzione.md) · [Guida rapida](Wiki/IT/Guida-rapida.md) · [Risorse](Wiki/IT/Risorse.md) · [Esercito](Wiki/IT/Esercito.md) · [La Città e la difesa](Wiki/IT/La-Citta-e-la-difesa.md) · [PVP: sfidare i giocatori](Wiki/IT/PVP-sfidare-i-giocatori.md) · [Quest Mensili](Wiki/IT/Quest-Mensili.md) · [Domande frequenti](Wiki/IT/Domande-frequenti.md)
+
+➡️ [Apri l'indice completo della wiki](Wiki/IT/README.md)
+
+---
+
+## 🇬🇧 English
+
+Welcome, future sovereign.
+
+A village awaits you: a few huts, fields not yet sown and walls yet to be raised. It is up to you to turn it into an empire able to withstand barbarian raids and the ambitions of other players.
+
+**Warriors & Wealth** is a multiplayer strategy game set in the Middle Ages, where every player builds, manages and defends their own village in a constant contest for resources, land and prestige. Between one construction order and the next you will have to balance economy and military strength: upgrade civil buildings to sustain growth, train your army in the barracks, and choose when to strike, whether on an expedition against a Barbarian Village or a direct attack on another player's walls.
+
+📖 **The official wiki** explains every part of the game using the same tab and button names you see in the client, and it is also available inside the game, from the player menu.
+
+**Where to start:** [Welcome to Warriors & Wealth](Wiki/EN/Introduction.md) · [Quick start](Wiki/EN/Quick-start.md) · [Resources](Wiki/EN/Resources.md) · [Army](Wiki/EN/Army.md) · [The City and defense](Wiki/EN/The-City-and-defense.md) · [PVP: challenging players](Wiki/EN/PVP-challenging-players.md) · [Monthly Quests](Wiki/EN/Monthly-Quests.md) · [Frequently asked questions](Wiki/EN/FAQ.md)
+
+➡️ [Open the full wiki index](Wiki/EN/README.md)
+
+---
+
+<p align="center"><a href="#">Torna in alto ↑ / Back to top ↑</a></p>
